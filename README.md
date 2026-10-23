@@ -34,44 +34,48 @@ current_role: "Informatics Engineering student / Software developer"
 usernames: ["@anjelradio"]
 email: anjelradio@gmail.com
 education:
-  - "UAGRM: Ingeniería Informática (Currently studying)"
-  - "Colegio Mariscal Sucre, Bolivia: High School Graduate"
-
+[
+	"UAGRM: Bachelor's in Informatics Engineering (Currently studying)",
+	"Colegio Mariscal Sucre, Bolivia: High School Graduate"
+]
 currently_studying:
-  - Angular
-  - Artificial Intelligence Development
-  - Deep Learning
-  - Computer Vision
-  - AI Agents
-  - AI Chatbots
-  - AI Harnesses
-
+[
+	"Angular",
+	"Artificial Intelligence",
+	"Deep Learning",
+	"Computer Vision",
+	"AI Agents",
+	"AI Chatbots",
+	"AI Harnesses"
+]
 field_of_interests:
-  - Full-Stack Web Development
-  - Mobile App Development
-  - Artificial Intelligence
-  - AI Agents and Agent Architectures
-  - AI Chatbots
-  - AI Harnesses
-  - Human-AI Interaction
-
+[
+	"full-stack web development",
+	"mobile app development",
+	"AI agents",
+	"chatbots",
+	"AI harnesses",
+	"artificial intelligence"]
 soft-skills:
-  - Logical Thinking
-  - Problem Solving
-  - Creativity
-  - Self-Directed Learning
-  - Teamwork
-  - Attention to Detail
-  - Organization
-  - Quality-Oriented Mindset
-
+[
+	"logical thinking",
+	"problem solving",
+	"creativity",
+	"self-directed learning",
+	"teamwork",
+	"attention to detail",
+	"organization",
+	"quality-oriented mindset"
+]
 misc_interests:
-  - Playing Guitar
-  - Listening to Music
-  - Web Design
-  - UI/UX Design
-  - Mobile App Design
-  - Reading Books
+[
+	"playing guitar",
+	"listening to music",
+	"web design",
+	"UI/UX design",
+	"mobile app design",
+	"reading books"
+]
 ```
 <br>
 
